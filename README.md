@@ -1,2 +1,2 @@
 # algorithmJS
-List of all JavaScript algorithms solved by me
+List of all algorithms/challenges solved by me
